@@ -2,5 +2,5 @@
 @@||redgifs.com^$important
 @@||xboxlive.com^$important
 @@||pinterest.com^$important
-@@||reddit.*^$important
+@@||reddit.com^$important
 @@||xbox.ipv6.microsoft.com
