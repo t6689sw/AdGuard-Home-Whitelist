@@ -4,3 +4,4 @@
 @@||pinterest.com^$important
 @@||reddit.com^$important
 @@||xbox.ipv6.microsoft.com
+@@||instagram.com^$important
