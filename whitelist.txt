@@ -1,6 +1,5 @@
-@@|facebook.com^$important
-@@|facebook.net^$important
-@@|redgifs.com^$important
-@@|xboxlive.com^$important
-@@|pinterest.com^$important
-xbox.ipv6.microsoft.com
+@@||facebook.*^$important
+@@||redgifs.com^$important
+@@||xboxlive.com^$important
+@@||pinterest.com^$important
+@@||xbox.ipv6.microsoft.com
