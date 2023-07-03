@@ -1,1 +1,3 @@
 @@|facebook.com^$important
+@@|redgifs.com^$important
+@@|xboxlive.com^$important
